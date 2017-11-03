@@ -16,13 +16,13 @@ B. METHOD OF INSTRUCTION
 Slides and course material used will be posted later on the class website
 (https://www.ocf.berkeley.edu/~nathanwong/splashwebdev/).
 
-C. COURSE OBJECTIVES (five or six objectives; general but comprehensive)
+C. COURSE OBJECTIVES 
 1. Understand the basic principles of the internet – both its historical evolution and its
 modern applications. We will focus on the protocols and languages used to make
 surfing the internet a seamless process.
 2. Understand what a website is and what interactions are involved when your
-computer visits a website. We will go over different types of websites – including
-public and privatized websites.
+computer visits a website. We will explore answers to these questions – including
+learning the difference between public and privatized websites.
 3. Learn how to create your own website – specifically how to use basic functions of
 HTML and CSS. We will go over exercises which are designed to serve as a jumping
 board for you to learn more about web development in your own time. Resources to
